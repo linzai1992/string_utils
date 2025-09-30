@@ -1,6 +1,10 @@
 
 #pragma once
 
+/**
+ * @author yunlinchen
+ */
+
 #include <cstring>
 #include <algorithm>
 #include <sstream>
